@@ -1,2 +1,2 @@
-# proxx-machine
+# Proxx-machine
 My Lakehead University Software Engineering Final Year Academic Project
