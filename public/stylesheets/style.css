@@ -1,0 +1,453 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+body {
+    background-color: #383838;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+  	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	overflow: auto;
+    padding:30px;
+}
+
+a
+{
+    color: white;
+    display: inline-block;
+    margin: 20px;
+}
+
+h1
+{
+    text-align: center;
+    margin: 30px;
+}
+
+.content
+{
+    text-align: center;
+}
+
+/*****************************************************/
+/* BUTTONS */
+/*****************************************************/
+
+button
+{
+	border: 1px solid #383838;
+	background-color: black;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+	margin: 10px 0;
+	color: white;
+}
+
+button:active {
+	transform: scale(0.95);
+}
+
+button:focus {
+	outline: none;
+}
+
+button.longprimary {
+    width: 40%;
+    color: white;
+}
+
+button.shortprimary {
+    width: 100%;
+    color: white;
+}
+
+button.longsecondary {
+    width: 100%;
+	background-color: transparent;
+	border: 1px solid #383838;
+	color: black;
+}
+
+button.shortsecondary {
+	background-color: transparent;
+	border: 1px solid #383838;
+	color: black;
+	width: 100%;
+}
+
+.buttons-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+}
+
+@media screen and (max-height: 450px)
+{
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+/*****************************************************/
+/* LOGIN FORM */
+/*****************************************************/
+
+.icon {
+  padding: 10px;
+  background: black;
+  color: white;
+  min-width: 50px;
+  height: 20px;
+  text-align: center;
+}
+
+.icon-input-container
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 10px;
+  
+}
+
+/*****************************************************/
+/* POTENTIALLY UNUSUED FIELDS */
+/*****************************************************/
+
+.successFeedback
+{
+    border-radius: 5px;
+      background: lightgreen;
+      padding: 10px;
+      color: black;
+       margin: 0px 0px 20px 0px;
+}
+
+.errorFeedback
+{
+    border-radius: 5px;
+      background: lightcoral;
+      padding: 10px;
+      color: black;
+       margin: 0px 0px 20px 0px;
+}
+
+.sign-in-header {
+	font-weight: bold;
+	text-align: center;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+
+/*****************************************************/
+/* MULTIPLE STEP FORM */
+/*****************************************************/
+
+#applyForm {
+  background-color: #ffffff;
+  margin: 10px;
+  padding: 15px;
+  color: #383838;
+  width:400px;
+}
+
+.input-group-container
+{
+    width: auto;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+input
+{
+    padding: 10px;
+    box-sizing : border-box;
+    height: 40px;
+    font-size: 17px;
+}
+
+select
+{
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+}
+
+.filter-analytics-select
+{
+    width: 60%;
+    margin-right: 10px;
+}
+
+.application-input
+{
+    width: 100%;
+}
+
+
+
+label {
+  padding: 12px 12px 12px 0;
+
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 5px;
+}
+
+.row{
+    margin-top: 10px;
+}
+
+.col-25 {
+  float: left;
+  width: 60%;
+  padding-top: 10px;
+
+}
+
+.col-75 {
+    float: left;
+    width: 40%;
+
+}
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.applyInputs
+{
+     width: 40%;
+}
+
+
+/* Mark input boxes that gets an error on validation: */
+input.invalid {
+  background-color: #ffdddd;
+}
+
+/* Hide all steps by default: */
+.tab {
+  display: none;
+}
+
+#prevBtn {
+  background-color: #bbbbbb;
+  color: white;
+}
+
+/* Make circles that indicate the steps of the form: */
+.step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none;  
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.step.active {
+  opacity: 1;
+}
+
+/* Mark the steps that are finished and valid: */
+.step.finish {
+  background-color: #4CAF50;
+}
+
+.listbox 
+{
+    width: 100%;
+    padding: 10px;
+}
+
+.listbox-option
+{
+    padding: 10px;
+}
+
+.inline-container
+{
+  display: flex;
+  align-items: center;
+}
+
+.search-input
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    
+    form{
+    overflow: scroll;
+    }
+    
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+  
+    #applyForm {
+
+    width: auto;
+    }
+    
+    button.longprimary {
+        width: 100%;
+        margin: 10px 0 0 0;
+    }
+    
+    button.shortprimary, input, select{
+        margin: 10px 0 0 0;
+    }
+    
+        .filter-analytics-select{
+        width: 100%;
+    }
+    
+    .search-input
+    {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    
+      .inline-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+
+/*****************************************************/
+/* APPLICATION TABLE */
+/*****************************************************/
+
+table
+{
+  width:100%;
+}
+table, th, td
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td
+{
+  padding: 15px;
+  text-align: left;
+}
+
+td
+{
+    color: black;
+}
+table#t01 tr:nth-child(even)
+{
+  background-color: #eee;
+}
+table#t01 tr:nth-child(odd)
+{
+
+ background-color: #fff;
+}
+table#t01 th
+{
+  background-color: black;
+  color: white;
+}
+
+/*****************************************************/
+/* FULLSCREEN MENU */
+/*****************************************************/
+
+.overlay {
+  height: 0%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9);
+  overflow-y: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  padding: 0px;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+@media screen and (max-height: 450px) {
+  .overlay {overflow-y: auto;}
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+  font-size: 40px;
+  top: 15px;
+  right: 35px;
+  }
+}
+
+/*****************************************************/
+/* ADMIN HOME SCREEN */
+/*****************************************************/
+

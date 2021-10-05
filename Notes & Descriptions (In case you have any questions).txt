@@ -1,0 +1,33 @@
+Directory Listing:
+
+	* Analytics Directory - Files on the AWS Server for processing prediction requests from the HostGator web server.
+	* Private Directory - Web Application Server Side on HostGator.
+	* Public Directory - Web Application Client Side on HostGator.
+	* Shared Directory - Contains headers, footers and navigation bars to avoid duplicate code in the front end development.
+	* Stylesheet - Contains CSS file for front end design and styling.
+
+Login Credentials for Web Application Testing:
+
+	Administative User Login Credentials (Welfare Worker processing welfare applications)
+	* Email - sing@lakeheadu.ca
+	* Password - 12345
+
+	Household Member Login Credentials (Family Member submitting welfare applications)
+	* Email - mighty@lakeheadu.ca
+	* Password - open123
+	
+Python Notebooks (Jupyter):
+
+PMT_model_train
+- Model Training Notebook (Without Function to Save Model)
+
+PMT_model_train_and_save
+- Model Training Notebook (With Save Model Function)
+
+PMT_model_execute 
+- Execute Prediction Inputs by using the model execution file (e.g. rf_model.pkl)
+
+PMT_get_randomrow
+- Takes a line number and returns the entire row of data to the web application
+- The web application then makes another prediction request and compares with the correct value that was returned initially.
+- Used in the "Model Test" feature on the administrative side.

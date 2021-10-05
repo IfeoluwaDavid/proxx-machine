@@ -1,0 +1,1289 @@
+[01-Dec-2019 11:48:57 America/Chicago] PHP Warning:  require_once(../../private/initialize.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 3
+[01-Dec-2019 11:48:57 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../private/initialize.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 3
+[01-Dec-2019 11:58:31 America/Chicago] PHP Warning:  require_once(../../private/initialize.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 3
+[01-Dec-2019 11:58:31 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../../private/initialize.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 3
+[01-Dec-2019 11:59:48 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'webuser'@'localhost' (using password: YES) in /home4/ifedaviid/public_html/FakeUniversity/private/db_functions.php on line 6
+[01-Dec-2019 11:59:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:66
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 66
+[01-Dec-2019 12:03:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:66
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 66
+[01-Dec-2019 12:03:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:64
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 64
+[01-Dec-2019 12:11:18 America/Chicago] PHP Warning:  include(feedbacks/loginerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 70
+[01-Dec-2019 12:11:18 America/Chicago] PHP Warning:  include(feedbacks/loginerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 70
+[01-Dec-2019 12:11:18 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/loginerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 70
+[01-Dec-2019 17:52:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_blank() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 16
+[01-Dec-2019 17:55:06 America/Chicago] PHP Warning:  require_once(database.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/private/initialize.php on line 22
+[01-Dec-2019 17:55:06 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/private/initialize.php on line 22
+[01-Dec-2019 17:55:09 America/Chicago] PHP Warning:  require_once(database.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/private/initialize.php on line 22
+[01-Dec-2019 17:55:09 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/private/initialize.php on line 22
+[01-Dec-2019 17:56:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function find_admin_by_username() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 31
+[01-Dec-2019 18:40:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function db_escape() in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:16
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/login.php(31): find_user('ifeoluwaadese@y...')
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 16
+[01-Dec-2019 18:41:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function db_escape() in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:16
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/login.php(31): find_user('ifeoluwaadese@y...')
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 16
+[01-Dec-2019 18:55:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 9
+[01-Dec-2019 21:39:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function sendToken() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 38
+[01-Dec-2019 21:40:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 23
+[01-Dec-2019 21:42:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 24
+[01-Dec-2019 21:43:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 40
+[01-Dec-2019 21:43:20 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 24
+[02-Dec-2019 07:06:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function find_one_in_fake_db() in /home4/ifedaviid/public_html/FakeUniversity/private/token_functions.php:31
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/verify.php(12): find_user_with_token('7f5c5cc272a021e...')
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/token_functions.php on line 31
+[02-Dec-2019 07:40:37 America/Chicago] PHP Fatal error:  Cannot redeclare find_user_with_token() (previously declared in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:44) in /home4/ifedaviid/public_html/FakeUniversity/private/token_functions.php on line 35
+[02-Dec-2019 07:53:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:53:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:53:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:54:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:55:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:56:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 07:59:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:00:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:06:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:06:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function request_is_post() in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php on line 25
+[02-Dec-2019 08:15:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:19:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 08:23:18 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 13:36:31 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 79
+[02-Dec-2019 14:46:43 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 79
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 12
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 12
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 12
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 25
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 25
+[02-Dec-2019 15:00:07 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/FakeUniversity/public/message.php on line 25
+[02-Dec-2019 15:27:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 79
+[02-Dec-2019 15:54:18 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getverificationkey(), 0 passed in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php on line 19 and exactly 1 expected in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:45
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/verify.php(19): getverificationkey()
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 45
+[02-Dec-2019 15:55:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 15:58:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 51
+[02-Dec-2019 16:02:30 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 53
+[02-Dec-2019 16:11:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 95
+[02-Dec-2019 16:25:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token_tag() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:61
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 61
+[02-Dec-2019 19:53:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 13
+[02-Dec-2019 19:54:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 13
+[02-Dec-2019 19:56:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 76
+[02-Dec-2019 19:57:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 76
+[02-Dec-2019 19:57:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 76
+[02-Dec-2019 20:11:43 America/Chicago] PHP Warning:  mysqli_query(): Empty query in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 10
+[02-Dec-2019 20:11:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 12
+[03-Dec-2019 09:40:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php:114
+Stack trace:
+#0 /home4/ifedaviid/public_html/FakeUniversity/public/index.php(31): getuserpermissions('1')
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 114
+[03-Dec-2019 09:41:19 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/FakeUniversity/private/query_functions.php on line 114
+[10-Dec-2019 23:07:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_blank() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 16
+[10-Dec-2019 23:09:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_blank() in /home4/ifedaviid/public_html/FakeUniversity/public/login.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/login.php on line 16
+[10-Dec-2019 23:10:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function has_presence() in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/FakeUniversity/public/verify.php on line 21
+[09-Jan-2020 13:12:54 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/index.php on line 7
+[09-Jan-2020 13:12:54 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/index.php on line 7
+[09-Jan-2020 13:12:54 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/index.php on line 7
+[09-Jan-2020 13:12:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getuserpermissions() in /home4/ifedaviid/public_html/povertyprediction/public/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/index.php on line 25
+[09-Jan-2020 13:16:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function url_for() in /home4/ifedaviid/public_html/povertyprediction/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/index.php on line 9
+[09-Jan-2020 13:17:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function url_for() in /home4/ifedaviid/public_html/povertyprediction/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/index.php on line 9
+[09-Jan-2020 13:17:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function url_for() in /home4/ifedaviid/public_html/povertyprediction/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/index.php on line 9
+[19-Jan-2020 02:37:56 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/message.php on line 14
+[19-Jan-2020 02:37:56 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/message.php on line 14
+[19-Jan-2020 02:37:56 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/message.php on line 14
+[19-Jan-2020 02:37:56 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/message.php on line 27
+[19-Jan-2020 02:37:56 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/message.php on line 27
+[19-Jan-2020 02:37:56 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/message.php on line 27
+[20-Jan-2020 01:15:25 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:15:25 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:15:25 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:15:25 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:15:25 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:15:25 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:15:26 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:15:26 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:15:26 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:15:26 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:15:26 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:15:26 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:16:47 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:16:47 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:16:47 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:16:47 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:16:47 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:16:47 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:16:56 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:16:56 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:16:56 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:16:56 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:16:56 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:16:56 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:18:54 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:18:54 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:18:54 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:18:54 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:18:54 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:18:54 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:18:57 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:18:57 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:18:57 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 14
+[20-Jan-2020 01:18:57 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:18:57 America/Chicago] PHP Warning:  include(SHARED_PATH/footer.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[20-Jan-2020 01:18:57 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/footer.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/home.php on line 33
+[28-Jan-2020 16:52:33 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 11
+[28-Jan-2020 16:54:03 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 11
+[28-Jan-2020 16:54:13 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 11
+[28-Jan-2020 16:58:30 America/Chicago] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 11
+[28-Jan-2020 17:07:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 11
+[28-Jan-2020 17:09:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 11
+[28-Jan-2020 17:09:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 11
+[28-Jan-2020 17:27:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'UPDATE' (T_STRING) in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 30
+[28-Jan-2020 17:30:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 12
+[28-Jan-2020 17:30:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 12
+[28-Jan-2020 17:31:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 12
+[28-Jan-2020 17:32:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 12
+[28-Jan-2020 17:32:13 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 12
+[30-Jan-2020 15:58:34 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 30
+[30-Jan-2020 15:58:36 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 30
+[30-Jan-2020 15:58:39 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 30
+[30-Jan-2020 16:19:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 138
+[30-Jan-2020 16:19:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 138
+[30-Jan-2020 16:19:49 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 138
+[30-Jan-2020 16:19:51 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 138
+[30-Jan-2020 16:19:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 138
+[30-Jan-2020 16:19:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 138
+[30-Jan-2020 16:19:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 138
+[30-Jan-2020 16:20:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/ifedaviid/public_html/povertyprediction/private/query_functions.php on line 138
+[31-Jan-2020 01:23:28 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 3
+[31-Jan-2020 01:23:28 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 3
+[31-Jan-2020 01:23:28 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 3
+[31-Jan-2020 01:23:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/povertyprediction/public/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 11
+[31-Jan-2020 01:24:37 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 3
+[31-Jan-2020 01:24:37 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 3
+[31-Jan-2020 01:24:37 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 3
+[31-Jan-2020 01:24:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/povertyprediction/public/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 11
+[31-Jan-2020 01:24:52 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 5
+[31-Jan-2020 01:24:52 America/Chicago] PHP Warning:  include(SHARED_PATH/header.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 5
+[31-Jan-2020 01:24:52 America/Chicago] PHP Warning:  include(): Failed opening 'SHARED_PATH/header.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 5
+[31-Jan-2020 01:24:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/povertyprediction/public/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/login.php on line 13
+[31-Jan-2020 01:45:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function require_login() in /home4/ifedaviid/public_html/povertyprediction/public/memberapply.php:4
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/memberapply.php on line 4
+[31-Jan-2020 02:19:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_sucess() in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php:16
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 16
+[31-Jan-2020 12:48:39 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php on line 34
+[31-Jan-2020 13:04:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php on line 32
+[01-Feb-2020 14:53:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php on line 53
+[01-Feb-2020 14:53:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php on line 53
+[01-Feb-2020 16:22:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[01-Feb-2020 17:18:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php on line 120
+[01-Feb-2020 17:21:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php on line 120
+[01-Feb-2020 17:22:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php on line 120
+[01-Feb-2020 17:23:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php on line 120
+[01-Feb-2020 17:24:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php on line 120
+[01-Feb-2020 17:25:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php on line 121
+[01-Feb-2020 17:26:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php on line 121
+[01-Feb-2020 18:11:30 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:30 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:30 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:33 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:33 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:33 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:34 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:34 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:34 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:37 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:37 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:37 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:40 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:40 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:40 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:56 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:56 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:11:56 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:02 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:02 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:02 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:06 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:06 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:06 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:12 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:12 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:12 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:16 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:16 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:16 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:17 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:17 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:17 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:18 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:18 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:18 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:20 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:20 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:20 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:22 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:22 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:22 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:23 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:23 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:23 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:25 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:25 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:25 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:52 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:52 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:52 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:53 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:53 America/Chicago] PHP Warning:  include(feedbacks/registrationerror.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[01-Feb-2020 18:12:53 America/Chicago] PHP Warning:  include(): Failed opening 'feedbacks/registrationerror.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 94
+[03-Feb-2020 10:44:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 30
+[03-Feb-2020 10:45:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 30
+[03-Feb-2020 10:45:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 30
+[03-Feb-2020 10:46:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 30
+[03-Feb-2020 10:46:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 30
+[03-Feb-2020 10:47:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 30
+[03-Feb-2020 10:47:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 30
+[03-Feb-2020 10:51:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 38
+[03-Feb-2020 10:55:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 29
+[03-Feb-2020 10:55:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 27
+[03-Feb-2020 11:44:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 386
+[03-Feb-2020 11:45:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 386
+[03-Feb-2020 11:48:38 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 15
+[03-Feb-2020 11:48:43 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 15
+[04-Feb-2020 15:56:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 13
+[04-Feb-2020 16:35:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 49
+[04-Feb-2020 16:35:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 49
+[04-Feb-2020 23:56:16 America/Chicago] PHP Fatal error:  Cannot redeclare find_user_with_email() (previously declared in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php:5) in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 73
+[04-Feb-2020 23:56:27 America/Chicago] PHP Fatal error:  Cannot redeclare find_user_with_email() (previously declared in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php:5) in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 73
+[05-Feb-2020 07:08:33 America/Chicago] PHP Fatal error:  Cannot redeclare find_user_with_email() (previously declared in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php:5) in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 73
+[05-Feb-2020 07:08:34 America/Chicago] PHP Fatal error:  Cannot redeclare find_user_with_email() (previously declared in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php:5) in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 73
+[06-Feb-2020 10:59:33 America/Chicago] PHP Fatal error:  Cannot redeclare find_user_with_email() (previously declared in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php:5) in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 73
+[06-Feb-2020 12:53:44 America/Chicago] PHP Fatal error:  Cannot redeclare find_user_with_email() (previously declared in /home4/ifedaviid/public_html/povertyprediction/private/functions_usecase.php:5) in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 73
+[06-Feb-2020 12:54:35 America/Chicago] PHP Fatal error:  Cannot redeclare interpretGender() (previously declared in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php:527) in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 586
+[06-Feb-2020 13:54:18 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 58
+[06-Feb-2020 13:54:18 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 74
+[06-Feb-2020 20:39:07 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interpretOrdinal(), 1 passed in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 104 and exactly 2 expected in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php:801
+Stack trace:
+#0 /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php(104): interpretOrdinal('Bad')
+#1 /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php(15): prepareinputs(Array)
+#2 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 801
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 146
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 147
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 148
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 149
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 150
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 151
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 153
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 154
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 155
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 156
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 157
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 158
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 159
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 161
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 162
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 163
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 164
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 165
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 166
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 168
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 169
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 170
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 171
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 172
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 173
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 174
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 176
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 177
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 178
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 179
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 180
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 181
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 182
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 183
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 185
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 186
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 187
+[06-Feb-2020 20:39:55 America/Chicago] PHP Warning:  array_intersect_key(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 298
+[06-Feb-2020 21:06:25 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_SERVER' (0) in /home4/ifedaviid/public_html/povertyprediction/private/functions_nonusecase.php on line 12
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #2 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 163
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 164
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 165
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 166
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 168
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 169
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 170
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 171
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 172
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 173
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 174
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 176
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 177
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 178
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 179
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 180
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 181
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 182
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 183
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 185
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 186
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_merge(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 187
+[06-Feb-2020 22:43:31 America/Chicago] PHP Warning:  array_intersect_key(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 298
+[07-Feb-2020 14:33:14 America/Chicago] PHP Warning:  array_merge(): Argument #2 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 201
+[07-Feb-2020 14:33:14 America/Chicago] PHP Warning:  array_intersect_key(): Argument #1 is not an array in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 312
+[07-Feb-2020 15:20:16 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function interpretEducationalLevel(), 1 passed in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 147 and exactly 2 expected in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php:827
+Stack trace:
+#0 /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php(147): interpretEducationalLevel(NULL)
+#1 /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php(15): prepareinputs(Array)
+#2 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 827
+[07-Feb-2020 15:42:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_values' (T_STRING), expecting ',' or ';' in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 844
+[07-Feb-2020 15:44:07 America/Chicago] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 846
+[07-Feb-2020 15:44:07 America/Chicago] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 846
+[07-Feb-2020 15:44:07 America/Chicago] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/private/functions_processapplication.php on line 846
+[07-Feb-2020 15:58:43 America/Chicago] PHP Warning:  file_get_contents(http://35.183.243.52/sushant/povertyprediction/public/predict.php?lotsize=3&amp;bedrooms=4&amp;bathrms=4&amp;stories=5&amp;driveway=0&amp;recroom=1&amp;fullbase=0&amp;gashw=1&amp;airco=1&amp;garagepl=6&amp;prefarea=0): failed to open stream: Connection timed out in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 15:58:57 America/Chicago] PHP Warning:  file_get_contents(http://35.183.243.52/sushant/povertyprediction/public/predict.php?lotsize=3&amp;bedrooms=3&amp;bathrms=3&amp;stories=3&amp;driveway=0&amp;recroom=1&amp;fullbase=1&amp;gashw=1&amp;airco=1&amp;garagepl=3&amp;prefarea=1): failed to open stream: Connection timed out in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 15:59:18 America/Chicago] PHP Warning:  file_get_contents(http://35.183.243.52/sushant/povertyprediction/public/predict.php?lotsize=3&amp;bedrooms=3&amp;bathrms=3&amp;stories=3&amp;driveway=0&amp;recroom=1&amp;fullbase=1&amp;gashw=1&amp;airco=1&amp;garagepl=3&amp;prefarea=1): failed to open stream: Connection timed out in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 15:59:19 America/Chicago] PHP Warning:  file_get_contents(http://35.183.243.52/sushant/povertyprediction/public/predict.php?lotsize=3&amp;bedrooms=3&amp;bathrms=3&amp;stories=3&amp;driveway=0&amp;recroom=1&amp;fullbase=1&amp;gashw=1&amp;airco=1&amp;garagepl=3&amp;prefarea=1): failed to open stream: Connection timed out in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 16:01:00 America/Chicago] PHP Warning:  file_get_contents(http://35.183.243.52/sushant/povertyprediction/public/predict.php?lotsize=3&amp;bedrooms=3&amp;bathrms=3&amp;stories=3&amp;driveway=0&amp;recroom=1&amp;fullbase=1&amp;gashw=1&amp;airco=1&amp;garagepl=3&amp;prefarea=1): failed to open stream: Connection timed out in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 16:02:14 America/Chicago] PHP Warning:  file_get_contents(http://35.183.243.52/sushant/povertyprediction/public/predict.php?lotsize=7&amp;bedrooms=7&amp;bathrms=7&amp;stories=7&amp;driveway=1&amp;recroom=1&amp;fullbase=1&amp;gashw=1&amp;airco=1&amp;garagepl=7&amp;prefarea=1): failed to open stream: Connection timed out in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 16:02:57 America/Chicago] PHP Warning:  file_get_contents(http://35.183.243.52/sushant/povertyprediction/public/predict.php?lotsize=7&amp;bedrooms=7&amp;bathrms=7&amp;stories=7&amp;driveway=1&amp;recroom=1&amp;fullbase=1&amp;gashw=1&amp;airco=1&amp;garagepl=7&amp;prefarea=1): failed to open stream: Connection timed out in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 16:11:12 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?lotsize=7&amp;bedrooms=7&amp;bathrms=7&amp;stories=7&amp;driveway=1&amp;recroom=1&amp;fullbase=1&amp;gashw=0&amp;airco=1&amp;garagepl=7&amp;prefarea=1): failed to open stream: Connection refused in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 16:11:32 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?lotsize=7&amp;bedrooms=7&amp;bathrms=7&amp;stories=7&amp;driveway=1&amp;recroom=1&amp;fullbase=1&amp;gashw=1&amp;airco=1&amp;garagepl=7&amp;prefarea=1): failed to open stream: Connection refused in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 16:13:03 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?lotsize=3&amp;bedrooms=3&amp;bathrms=3&amp;stories=3&amp;driveway=0&amp;recroom=0&amp;fullbase=1&amp;gashw=0&amp;airco=1&amp;garagepl=3&amp;prefarea=Is it located in preferred area ?): failed to open stream: Connection refused in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 16:13:36 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?lotsize=7&amp;bedrooms=7&amp;bathrms=7&amp;stories=7&amp;driveway=1&amp;recroom=1&amp;fullbase=1&amp;gashw=1&amp;airco=1&amp;garagepl=7&amp;prefarea=1): failed to open stream: Connection refused in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 16:14:55 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?lotsize=7&amp;bedrooms=7&amp;bathrms=7&amp;stories=7&amp;driveway=1&amp;recroom=1&amp;fullbase=1&amp;gashw=1&amp;airco=1&amp;garagepl=7&amp;prefarea=1): failed to open stream: Connection refused in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 16:15:18 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?lotsize=1&amp;bedrooms=2&amp;bathrms=3&amp;stories=4&amp;driveway=1&amp;recroom=0&amp;fullbase=0&amp;gashw=1&amp;airco=1&amp;garagepl=8&amp;prefarea=0): failed to open stream: Connection refused in /home4/ifedaviid/public_html/povertyprediction/public/predict.php on line 21
+[07-Feb-2020 18:18:54 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?
+    hacdor=11
+    &amp;rooms=3
+    &amp;hacapo=11
+    &amp;v14a=0
+    &amp;refrig=0
+    &amp;v18q=1
+    &amp;r4h1=2
+    &amp;r4h2=
+    &amp;r4m1=4
+    &amp;r4m2=5
+    &amp;r4t1=7
+    &amp;r4t2=8
+    &amp;escolari=0
+    &amp;paredblolad=1
+    &amp;paredzocalo=0
+    &amp;paredpreb=0
+    &amp;pareddes=0
+    &amp;paredmad=0
+    &amp;paredzinc=0
+    &amp;paredfibras=0
+    &amp;paredother=0
+    &amp;pisomoscer=1
+    &amp;pisoother=0
+    &amp;pisonatur=0
+    &amp;pisonotiene=0
+    &amp;pisomadera=0
+    &amp;techozinc=1
+    &amp;techoentrepiso=0
+    &amp;techocane=0
+    &amp;techootro=0
+    &amp;cielorazo=0
+    &amp;abastaguadentro=0
+    &amp;abastaguano=0
+    &amp;public=0
+    &amp;planpri=0
+    &amp;noelec=0
+    &amp;sanitario1=0
+    &amp;sanitario2=0
+    &amp;sanitario5=1
+    &amp;sanitario6=0
+    &amp;energcocinar1=0
+    &amp;energcocinar2=0
+    &amp;energcocinar4=0
+    &amp;elimbasu1=0
+    &amp;elimbasu2=1
+    &amp;elimbasu4=0
+   in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 104
+[07-Feb-2020 18:20:47 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?
+    hacdor=11
+    &amp;rooms=3
+    &amp;hacapo=11
+    &amp;v14a=0
+    &amp;refrig=0
+    &amp;v18q=1
+    &amp;r4h1=2
+    &amp;r4h2=
+    &amp;r4m1=4
+    &amp;r4m2=5
+    &amp;r4t1=7
+    &amp;r4t2=8
+    &amp;escolari=0
+    &amp;paredblolad=1
+    &amp;paredzocalo=0
+    &amp;paredpreb=0
+    &amp;pareddes=0
+    &amp;paredmad=0
+    &amp;paredzinc=0
+    &amp;paredfibras=0
+    &amp;paredother=0
+    &amp;pisomoscer=1
+    &amp;pisoother=0
+    &amp;pisonatur=0
+    &amp;pisonotiene=0
+    &amp;pisomadera=0
+    &amp;techozinc=1
+    &amp;techoentrepiso=0
+    &amp;techocane=0
+    &amp;techootro=0
+    &amp;cielorazo=0
+    &amp;abastaguadentro=0
+    &amp;abastaguano=0
+    &amp;public=0
+    &amp;planpri=0
+    &amp;noelec=0
+    &amp;sanitario1=0
+    &amp;sanitario2=0
+    &amp;sanitario5=1
+    &amp;sanitario6=0
+    &amp;energcocinar1=0
+    &amp;energcocinar2=0
+    &amp;energcocinar4=0
+    &amp;elimbasu1=0
+    &amp;elimbasu2=1
+    &amp;elimbasu4=0
+   in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 104
+[07-Feb-2020 18:21:19 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?
+    hacdor=11
+    &amp;rooms=3
+    &amp;hacapo=11
+    &amp;v14a=0
+    &amp;refrig=0
+    &amp;v18q=1
+    &amp;r4h1=2
+    &amp;r4h2=
+    &amp;r4m1=4
+    &amp;r4m2=5
+    &amp;r4t1=7
+    &amp;r4t2=8
+    &amp;escolari=0
+    &amp;paredblolad=1
+    &amp;paredzocalo=0
+    &amp;paredpreb=0
+    &amp;pareddes=0
+    &amp;paredmad=0
+    &amp;paredzinc=0
+    &amp;paredfibras=0
+    &amp;paredother=0
+    &amp;pisomoscer=1
+    &amp;pisoother=0
+    &amp;pisonatur=0
+    &amp;pisonotiene=0
+    &amp;pisomadera=0
+    &amp;techozinc=1
+    &amp;techoentrepiso=0
+    &amp;techocane=0
+    &amp;techootro=0
+    &amp;cielorazo=0
+    &amp;abastaguadentro=0
+    &amp;abastaguano=0
+    &amp;public=0
+    &amp;planpri=0
+    &amp;noelec=0
+    &amp;sanitario1=0
+    &amp;sanitario2=0
+    &amp;sanitario5=1
+    &amp;sanitario6=0
+    &amp;energcocinar1=0
+    &amp;energcocinar2=0
+    &amp;energcocinar4=0
+    &amp;elimbasu1=0
+    &amp;elimbasu2=1
+    &amp;elimbasu4=0
+   in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 104
+[07-Feb-2020 18:23:43 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?
+    hacdor=11
+    &amp;rooms=3
+    &amp;hacapo=11
+    &amp;v14a=0
+    &amp;refrig=0
+    &amp;v18q=1
+    &amp;r4h1=2
+    &amp;r4h2=
+    &amp;r4m1=4
+    &amp;r4m2=5
+    &amp;r4t1=7
+    &amp;r4t2=8
+    &amp;escolari=0
+    &amp;paredblolad=1
+    &amp;paredzocalo=0
+    &amp;paredpreb=0
+    &amp;pareddes=0
+    &amp;paredmad=0
+    &amp;paredzinc=0
+    &amp;paredfibras=0
+    &amp;paredother=0
+    &amp;pisomoscer=1
+    &amp;pisoother=0
+    &amp;pisonatur=0
+    &amp;pisonotiene=0
+    &amp;pisomadera=0
+    &amp;techozinc=1
+    &amp;techoentrepiso=0
+    &amp;techocane=0
+    &amp;techootro=0
+    &amp;cielorazo=0
+    &amp;abastaguadentro=0
+    &amp;abastaguano=0
+    &amp;public=0
+    &amp;planpri=0
+    &amp;noelec=0
+    &amp;sanitario1=0
+    &amp;sanitario2=0
+    &amp;sanitario5=1
+    &amp;sanitario6=0
+    &amp;energcocinar1=0
+    &amp;energcocinar2=0
+    &amp;energcocinar4=0
+    &amp;elimbasu1=0
+    &amp;elimbasu2=1
+    &amp;elimbasu4=0
+   in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 104
+[07-Feb-2020 18:25:35 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?
+    hacdor=11
+    &amp;rooms=3
+    &amp;hacapo=11
+    &amp;v14a=0
+    &amp;refrig=0
+    &amp;v18q=1
+    &amp;r4h1=2
+    &amp;r4h2=
+    &amp;r4m1=4
+    &amp;r4m2=5
+    &amp;r4t1=7
+    &amp;r4t2=8
+    &amp;escolari=0
+    &amp;paredblolad=1
+    &amp;paredzocalo=0
+    &amp;paredpreb=0
+    &amp;pareddes=0
+    &amp;paredmad=0
+    &amp;paredzinc=0
+    &amp;paredfibras=0
+    &amp;paredother=0
+    &amp;pisomoscer=1
+    &amp;pisoother=0
+    &amp;pisonatur=0
+    &amp;pisonotiene=0
+    &amp;pisomadera=0
+    &amp;techozinc=1
+    &amp;techoentrepiso=0
+    &amp;techocane=0
+    &amp;techootro=0
+    &amp;cielorazo=0
+    &amp;abastaguadentro=0
+    &amp;abastaguano=0
+    &amp;public=0
+    &amp;planpri=0
+    &amp;noelec=0
+    &amp;sanitario1=0
+    &amp;sanitario2=0
+    &amp;sanitario5=1
+    &amp;sanitario6=0
+    &amp;energcocinar1=0
+    &amp;energcocinar2=0
+    &amp;energcocinar4=0
+    &amp;elimbasu1=0
+    &amp;elimbasu2=1
+    &amp;elimbasu4=0
+   in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 112
+[07-Feb-2020 18:26:56 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?
+    hacdor=11
+    &amp;rooms=3
+    &amp;hacapo=11
+    &amp;v14a=0
+    &amp;refrig=0
+    &amp;v18q=1
+    &amp;r4h1=2
+    &amp;r4h2=
+    &amp;r4m1=4
+    &amp;r4m2=5
+    &amp;r4t1=7
+    &amp;r4t2=8
+    &amp;escolari=0
+    &amp;paredblolad=1
+    &amp;paredzocalo=0
+    &amp;paredpreb=0
+    &amp;pareddes=0
+    &amp;paredmad=0
+    &amp;paredzinc=0
+    &amp;paredfibras=0
+    &amp;paredother=0
+    &amp;pisomoscer=1
+    &amp;pisoother=0
+    &amp;pisonatur=0
+    &amp;pisonotiene=0
+    &amp;pisomadera=0
+    &amp;techozinc=1
+    &amp;techoentrepiso=0
+    &amp;techocane=0
+    &amp;techootro=0
+    &amp;cielorazo=0
+    &amp;abastaguadentro=0
+    &amp;abastaguano=0
+    &amp;public=0
+    &amp;planpri=0
+    &amp;noelec=0
+    &amp;sanitario1=0
+    &amp;sanitario2=0
+    &amp;sanitario5=1
+    &amp;sanitario6=0
+    &amp;energcocinar1=0
+    &amp;energcocinar2=0
+    &amp;energcocinar4=0
+    &amp;elimbasu1=0
+    &amp;elimbasu2=1
+    &amp;elimbasu4=0
+   in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 114
+[07-Feb-2020 20:01:52 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?hacdor=11&amp;rooms=3&amp;hacapo=11&amp;v14a=0&amp;refrig=0&amp;v18q=1&amp;r4h1=2&amp;r4h2=&amp;r4m1=4&amp;r4m2=5&amp;r4t1=7&amp;r4t2=8&amp;escolari=0&amp;paredblolad=1&amp;paredzocalo=0&amp;paredpreb=0&amp;pareddes=0&amp;paredmad=0&amp;paredzinc=0&amp;paredfibras=0&amp;paredother=0&amp;pisomoscer=1&amp;pisoother=0&amp;pisonatur=0&amp;pisonotiene=0&amp;pisomadera=0&amp;techozinc=1&amp;techoentrepiso=0&amp;techocane=0&amp;techootro=0&amp;cielorazo=0&amp;abastaguadentro=0&amp;abastaguano=0&amp;public=0&amp;planpri=0&amp;noelec=0&amp;sanitario1=0&amp;sanitario2=0&amp;sanitario5=1&amp;sanitario6=0&amp;energcocinar1=0&amp;energcocinar2=0&amp;energcocinar4=0&amp;elimbasu1=0&amp;elimbasu2=1&amp;elimbasu4=0&amp;elimbasu5=0&amp;elimbasu6=0&amp;dis=0&amp;male=0&amp;estadocivil1=0&amp;estadocivil2=0&amp;estadocivil3=0&amp;estadocivil4=0&amp;estadocivil5=0&amp;estadocivil6=0&amp;estadocivil7=0&amp;parentesco1=0&amp;parentesco2=0&amp;parent in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 17
+[07-Feb-2020 20:07:54 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?hacdor=11&amp;rooms=3&amp;hacapo=11&amp;v14a=0&amp;refrig=0&amp;v18q=1&amp;r4h1=2&amp;r4h2=&amp;r4m1=4&amp;r4m2=5&amp;r4t1=7&amp;r4t2=8&amp;escolari=0&amp;paredblolad=1&amp;paredzocalo=0&amp;paredpreb=0&amp;pareddes=0&amp;paredmad=0&amp;paredzinc=0&amp;paredfibras=0&amp;paredother=0&amp;pisomoscer=1&amp;pisoother=0&amp;pisonatur=0&amp;pisonotiene=0&amp;pisomadera=0&amp;techozinc=1&amp;techoentrepiso=0&amp;techocane=0&amp;techootro=0&amp;cielorazo=0&amp;abastaguadentro=0&amp;abastaguano=0&amp;public=0&amp;planpri=0&amp;noelec=0&amp;sanitario1=0&amp;sanitario2=0&amp;sanitario5=1&amp;sanitario6=0&amp;energcocinar1=0&amp;energcocinar2=0&amp;energcocinar4=0&amp;elimbasu1=0&amp;elimbasu2=1&amp;elimbasu4=0&amp;elimbasu5=0&amp;elimbasu6=0&amp;dis=0&amp;male=0&amp;estadocivil1=0&amp;estadocivil2=0&amp;estadocivil3=0&amp;estadocivil4=0&amp;estadocivil5=0&amp;estadocivil6=0&amp;estadocivil7=0&amp;parentesco1=0&amp;parentesco2=0&amp;parent in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 18
+[11-Feb-2020 17:17:56 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?predictioninputs=Array): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 19
+[11-Feb-2020 17:20:32 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?predictioninputs=Array): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 19
+[11-Feb-2020 17:20:57 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?predictioninputs=Array): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 19
+[11-Feb-2020 17:21:19 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 14
+[11-Feb-2020 17:21:31 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?predictioninputs=Array): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 19
+[12-Feb-2020 15:01:41 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?
+    hacdor=11&amp;
+    rooms=3&amp;
+    hacapo=11&amp;
+    v14a=0&amp;
+    refrig=0&amp;
+    v18q=1&amp;
+    r4h1=2&amp;
+    r4h2=&amp;
+    r4m1=4&amp;
+    r4m2=5&amp;
+    r4t1=7&amp;
+    r4t2=8&amp;
+    escolari=0&amp;
+    paredblolad=1&amp;
+    paredzocalo=0&amp;
+    paredpreb=0&amp;
+    pareddes=0&amp;
+    paredmad=0&amp;
+    paredzinc=0&amp;
+    paredfibras=0&amp;
+    paredother=0&amp;
+    pisomoscer=1&amp;
+    pisoother=0&amp;
+    pisonatur=0&amp;
+    pisonotiene=0&amp;
+    pisomadera=0&amp;
+    techozinc=1&amp;
+    techoentrepiso=0&amp;
+    techocane=0&amp;
+    techootro=0&amp;
+    cielorazo=0&amp;
+    abastaguadentro=0&amp;
+    abastaguano=0&amp;
+    public=0&amp;
+    planpri=0&amp;
+    noelec=0&amp;
+    sanitario1=0&amp;
+    sanitario2=0&amp;
+    sanitario5=1&amp;
+    sanitario6=0&amp;
+    energcocinar1=0&amp;
+    energcocinar2=0&amp;
+    energcocinar4=0&amp;
+    elimbasu1=0&amp;
+    elimbasu2=1&amp;
+    elimbasu4=0&am in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 106
+[12-Feb-2020 15:02:25 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?
+    hacdor=11&amp;
+    rooms=3&amp;
+    hacapo=11&amp;
+    v14a=0&amp;
+    refrig=0&amp;
+    v18q=1&amp;
+    r4h1=2&amp;
+    r4h2=&amp;
+    r4m1=4&amp;
+    r4m2=5&amp;
+    r4t1=7&amp;
+    r4t2=8&amp;
+    escolari=0&amp;
+    paredblolad=1&amp;
+    paredzocalo=0&amp;
+    paredpreb=0&amp;
+    pareddes=0&amp;
+    paredmad=0&amp;
+    paredzinc=0&amp;
+    paredfibras=0&amp;
+    paredother=0&amp;
+    pisomoscer=1&amp;
+    pisoother=0&amp;
+    pisonatur=0&amp;
+    pisonotiene=0&amp;
+    pisomadera=0&amp;
+    techozinc=1&amp;
+    techoentrepiso=0&amp;
+    techocane=0&amp;
+    techootro=0&amp;
+    cielorazo=0&amp;
+    abastaguadentro=0&amp;
+    abastaguano=0&amp;
+    public=0&amp;
+    planpri=0&amp;
+    noelec=0&amp;
+    sanitario1=0&amp;
+    sanitario2=0&amp;
+    sanitario5=1&amp;
+    sanitario6=0&amp;
+    energcocinar1=0&amp;
+    energcocinar2=0&amp;
+    energcocinar4=0&amp;
+    elimbasu1=0&amp;
+    elimbasu2=1&amp;
+    elimbasu4=0&am in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 106
+[12-Feb-2020 15:02:54 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?
+    hacdor=11&amp;
+    rooms=3&amp;
+    hacapo=11&amp;
+    v14a=0&amp;
+    refrig=0&amp;
+    v18q=1&amp;
+    r4h1=2&amp;
+    r4h2=&amp;
+    r4m1=4&amp;
+    r4m2=5&amp;
+    r4t1=7&amp;
+    r4t2=8&amp;
+    escolari=0&amp;
+    paredblolad=1&amp;
+    paredzocalo=0&amp;
+    paredpreb=0&amp;
+    pareddes=0&amp;
+    paredmad=0&amp;
+    paredzinc=0&amp;
+    paredfibras=0&amp;
+    paredother=0&amp;
+    pisomoscer=1&amp;
+    pisoother=0&amp;
+    pisonatur=0&amp;
+    pisonotiene=0&amp;
+    pisomadera=0&amp;
+    techozinc=1&amp;
+    techoentrepiso=0&amp;
+    techocane=0&amp;
+    techootro=0&amp;
+    cielorazo=0&amp;
+    abastaguadentro=0&amp;
+    abastaguano=0&amp;
+    public=0&amp;
+    planpri=0&amp;
+    noelec=0&amp;
+    sanitario1=0&amp;
+    sanitario2=0&amp;
+    sanitario5=1&amp;
+    sanitario6=0&amp;
+    energcocinar1=0&amp;
+    energcocinar2=0&amp;
+    energcocinar4=0&amp;
+    elimbasu1=0&amp;
+    elimbasu2=1&amp;
+    elimbasu4=0&am in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 106
+[12-Feb-2020 15:03:56 America/Chicago] PHP Warning:  file_get_contents(http://35.183.47.96/sushant/povertyprediction/public/predict.php?hacdor=11&amp;
+    rooms=3&amp;
+    hacapo=11&amp;
+    v14a=0&amp;
+    refrig=0&amp;
+    v18q=1&amp;
+    r4h1=2&amp;
+    r4h2=&amp;
+    r4m1=4&amp;
+    r4m2=5&amp;
+    r4t1=7&amp;
+    r4t2=8&amp;
+    escolari=0&amp;
+    paredblolad=1&amp;
+    paredzocalo=0&amp;
+    paredpreb=0&amp;
+    pareddes=0&amp;
+    paredmad=0&amp;
+    paredzinc=0&amp;
+    paredfibras=0&amp;
+    paredother=0&amp;
+    pisomoscer=1&amp;
+    pisoother=0&amp;
+    pisonatur=0&amp;
+    pisonotiene=0&amp;
+    pisomadera=0&amp;
+    techozinc=1&amp;
+    techoentrepiso=0&amp;
+    techocane=0&amp;
+    techootro=0&amp;
+    cielorazo=0&amp;
+    abastaguadentro=0&amp;
+    abastaguano=0&amp;
+    public=0&amp;
+    planpri=0&amp;
+    noelec=0&amp;
+    sanitario1=0&amp;
+    sanitario2=0&amp;
+    sanitario5=1&amp;
+    sanitario6=0&amp;
+    energcocinar1=0&amp;
+    energcocinar2=0&amp;
+    energcocinar4=0&amp;
+    elimbasu1=0&amp;
+    elimbasu2=1&amp;
+    elimbasu4=0&amp;
+   in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 105
+[13-Feb-2020 15:03:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/ifedaviid/public_html/povertyprediction/public/adminretrainmodel.php on line 26
+[13-Feb-2020 15:03:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/ifedaviid/public_html/povertyprediction/public/adminretrainmodel.php on line 26
+[02-Mar-2020 12:06:06 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ifedaviid/public_html/povertyprediction/public/adminretrainmodel.php on line 13
+[02-Mar-2020 12:06:06 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ifedaviid/public_html/povertyprediction/public/adminretrainmodel.php on line 14
+[02-Mar-2020 12:06:06 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home4/ifedaviid/public_html/povertyprediction/public/adminretrainmodel.php on line 15
+[04-Mar-2020 23:04:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home4/ifedaviid/public_html/povertyprediction/private/functions_predictionrequest.php on line 45
+[06-Mar-2020 15:43:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting '(' in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 110
+[06-Mar-2020 19:48:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 56
+[06-Mar-2020 20:01:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 48
+[06-Mar-2020 20:11:53 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 57
+[06-Mar-2020 21:26:19 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 15
+[06-Mar-2020 21:28:00 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 27
+[06-Mar-2020 22:29:47 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 47
+[06-Mar-2020 22:29:55 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 47
+[06-Mar-2020 22:29:57 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 47
+[06-Mar-2020 22:30:37 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:30:39 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:31:30 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:33:08 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:33:10 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:34:53 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 46
+[06-Mar-2020 22:35:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function var_dum() in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php:47
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 47
+[06-Mar-2020 22:37:00 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:37:02 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:37:51 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:37:53 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:40:20 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 48
+[06-Mar-2020 22:45:52 America/Chicago] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home4/ifedaviid/public_html/povertyprediction/public/adminviewapplication.php on line 17
+[06-Mar-2020 22:55:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$model_name' (T_VARIABLE) in /home4/ifedaviid/public_html/povertyprediction/public/adminmanageanalyticsfiles.php on line 69
+[08-Mar-2020 12:33:26 America/Chicago] PHP Warning:  require_once(functions_usecase.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/private/functions_others.php on line 3
+[08-Mar-2020 12:33:26 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'functions_usecase.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/private/functions_others.php on line 3
+[08-Mar-2020 12:34:02 America/Chicago] PHP Warning:  require_once(functions_nonusecase.php): failed to open stream: No such file or directory in /home4/ifedaviid/public_html/povertyprediction/private/functions_applications.php on line 3
+[08-Mar-2020 12:34:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'functions_nonusecase.php' (include_path='.:/opt/php71/lib/php') in /home4/ifedaviid/public_html/povertyprediction/private/functions_applications.php on line 3
+[08-Mar-2020 14:26:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php on line 164
+[08-Mar-2020 16:53:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home4/ifedaviid/public_html/povertyprediction/private/functions_applications.php on line 31
+[08-Mar-2020 17:05:20 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php on line 63
+[09-Mar-2020 13:44:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home4/ifedaviid/public_html/povertyprediction/private/functions_applications.php on line 152
+[11-Mar-2020 17:48:07 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home4/ifedaviid/public_html/povertyprediction/public/adminmanagemodels.php on line 56
+[12-Mar-2020 23:30:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$predictionoutput' (T_VARIABLE) in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 47
+[12-Mar-2020 23:30:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$predictionoutput' (T_VARIABLE) in /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php on line 47
+[12-Mar-2020 23:30:59 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home4/ifedaviid/public_html/povertyprediction/private/functions_predict.php on line 7
+[12-Mar-2020 23:37:48 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home4/ifedaviid/public_html/povertyprediction/private/functions_predict.php on line 13
+[13-Mar-2020 01:34:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function interpretPredictionOutput() in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php:42
+Stack trace:
+#0 /home4/ifedaviid/public_html/povertyprediction/private/functions_predict.php(65): predict(Array)
+#1 /home4/ifedaviid/public_html/povertyprediction/public/adminhome.php(47): prepareinputs(Array)
+#2 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php on line 42
+[13-Mar-2020 01:55:34 America/Chicago] PHP Warning:  Illegal string offset 'application_id' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 41
+[13-Mar-2020 01:55:34 America/Chicago] PHP Warning:  Illegal string offset 'applicant_region' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 43
+[13-Mar-2020 01:55:34 America/Chicago] PHP Warning:  Illegal string offset 'application_status' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 45
+[13-Mar-2020 01:55:34 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 47
+[13-Mar-2020 01:55:34 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 48
+[13-Mar-2020 01:55:34 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 49
+[13-Mar-2020 01:55:34 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 53
+[13-Mar-2020 02:08:03 America/Chicago] PHP Warning:  Illegal string offset 'application_id' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 41
+[13-Mar-2020 02:08:03 America/Chicago] PHP Warning:  Illegal string offset 'applicant_region' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 43
+[13-Mar-2020 02:08:03 America/Chicago] PHP Warning:  Illegal string offset 'application_status' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 45
+[13-Mar-2020 02:08:03 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 47
+[13-Mar-2020 02:08:03 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 48
+[13-Mar-2020 02:08:03 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 49
+[13-Mar-2020 02:08:03 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 53
+[13-Mar-2020 02:08:49 America/Chicago] PHP Warning:  Illegal string offset 'application_id' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 41
+[13-Mar-2020 02:08:49 America/Chicago] PHP Warning:  Illegal string offset 'applicant_region' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 43
+[13-Mar-2020 02:08:49 America/Chicago] PHP Warning:  Illegal string offset 'application_status' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 45
+[13-Mar-2020 02:08:49 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 47
+[13-Mar-2020 02:08:49 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 48
+[13-Mar-2020 02:08:49 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 49
+[13-Mar-2020 02:08:49 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 53
+[13-Mar-2020 02:09:31 America/Chicago] PHP Warning:  Illegal string offset 'application_id' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 41
+[13-Mar-2020 02:09:31 America/Chicago] PHP Warning:  Illegal string offset 'applicant_region' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 43
+[13-Mar-2020 02:09:31 America/Chicago] PHP Warning:  Illegal string offset 'application_status' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 45
+[13-Mar-2020 02:09:31 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 47
+[13-Mar-2020 02:09:31 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 48
+[13-Mar-2020 02:09:31 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 49
+[13-Mar-2020 02:09:31 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 53
+[13-Mar-2020 02:20:13 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php on line 34
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_id' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 41
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'applicant_region' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 43
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_status' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 45
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 47
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 48
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 49
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 53
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_id' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 41
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'applicant_region' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 43
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_status' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 45
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 47
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 48
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 49
+[16-Mar-2020 00:37:37 America/Chicago] PHP Warning:  Illegal string offset 'application_eligibility' in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 53
+[17-Mar-2020 19:23:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_errors() in /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:5
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php on line 5
+[17-Mar-2020 19:24:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:24:56 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:25:47 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:26:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:27:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:28:33 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:28:49 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:36:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:59:05 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:59:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/functions_applications.php on line 245
+[17-Mar-2020 19:59:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/shared/navbar.php on line 20
+[17-Mar-2020 19:59:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/initialize.php on line 4
+[17-Mar-2020 19:59:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/functions_applications.php on line 245
+[17-Mar-2020 19:59:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ifedaviid/public_html/povertyprediction/public/memberhome.php:1) in /home4/ifedaviid/public_html/povertyprediction/private/shared/navbar.php on line 20
+[17-Mar-2020 21:15:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function displayPresavedModels() in /home4/ifedaviid/public_html/povertyprediction/public/adminmanagemodels.php:37
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/adminmanagemodels.php on line 37
+[17-Mar-2020 21:16:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function displayPresavedModels() in /home4/ifedaviid/public_html/povertyprediction/public/adminmanagemodels.php:39
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/adminmanagemodels.php on line 39
+[17-Mar-2020 21:21:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function displayPresavedModels() in /home4/ifedaviid/public_html/povertyprediction/public/adminmanagemodels.php:39
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/adminmanagemodels.php on line 39
+[17-Mar-2020 21:44:35 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function displayPredictionResults() in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 29
+[17-Mar-2020 21:45:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function displayPredictionResults() in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php:29
+Stack trace:
+#0 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/public/adminpredictionresults.php on line 29
+[17-Mar-2020 21:56:10 America/Chicago] PHP Fatal error:  Cannot redeclare displayPresavedModels() (previously declared in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php:30) in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php on line 58
+[17-Mar-2020 21:56:41 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function displayPresavedDatasets(), 0 passed in /home4/ifedaviid/public_html/povertyprediction/public/adminretrainmodel.php on line 37 and exactly 1 expected in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php:30
+Stack trace:
+#0 /home4/ifedaviid/public_html/povertyprediction/public/adminretrainmodel.php(37): displayPresavedDatasets()
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php on line 30
+[17-Mar-2020 21:57:03 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function displayPresavedDatasets(), 0 passed in /home4/ifedaviid/public_html/povertyprediction/public/adminretrainmodel.php on line 37 and exactly 1 expected in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php:30
+Stack trace:
+#0 /home4/ifedaviid/public_html/povertyprediction/public/adminretrainmodel.php(37): displayPresavedDatasets()
+#1 {main}
+  thrown in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php on line 30
+[23-Mar-2020 18:18:29 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/ifedaviid/public_html/povertyprediction/private/functions_predict.php on line 12
+[23-Mar-2020 20:31:23 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home4/ifedaviid/public_html/povertyprediction/private/functions_analytics.php on line 121
